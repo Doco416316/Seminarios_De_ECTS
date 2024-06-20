@@ -1,0 +1,23 @@
+body{
+    background-image: url(../../Imagenes/P1.jpg);
+    background-size: cover;
+}
+.navbar{
+    background-color: rgba(195, 222, 245, 0.922);
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+a{
+    margin-left: 3px;
+    margin-right: 3px;
+}
+img{
+    border-radius: 30px;
+}
+.container{
+    background-color: rgba(147, 190, 231, 0.863);
+    margin-top: 30px;
+    border-radius: 20px;
+}
